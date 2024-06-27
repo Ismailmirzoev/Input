@@ -1,0 +1,32 @@
+.parent {
+    background: url(./Без\ названия\ \(8\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.parent1 {
+    color: white;
+    background-color: transparent;
+    box-shadow: 0 0 10px;
+    width: 230px;
+    height: 250px;
+    filter: blur(1px);
+}
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: white;
+}
+input {
+    outline: none;
+    background-color: transparent;
+    border-radius: 50px;
+    color: white;
+}
+body {
+    background-color: (to bottom,rgb(238, 117, 137),rgb(181, 44, 185),rgb(138, 0, 252)) ;
+}
